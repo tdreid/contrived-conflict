@@ -1,3 +1,3 @@
 # CONTRIVED CONFLICT
 
-This is a README.md file.
+This is an awesome README.md file.
